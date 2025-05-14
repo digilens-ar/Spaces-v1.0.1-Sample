@@ -8,7 +8,7 @@ The web page provides a detailed description of the steps required to incorporat
 
 ## Overview
 
-This Unity Sample app demonstrates how to set up your project for AR development with Spaces. Before proceeding, you will need to download the [Snapdragon Spaces Unity SDK](https://spaces.qualcomm.com/developer/ar-sdk/#downloads)
+This Unity Sample app demonstrates how to set up your project for AR development with Spaces. Before proceeding, you will need to download the [Snapdragon Spaces Unity SDK](https://spaces.qualcomm.com/developer/ar-sdk/#downloads). If the appropriate version of Spaces is unavailable, contact the [Snapdragon Spaces Support team](https://support.spaces.qualcomm.com/support/tickets/new) and request Spaces SDK v1.0.1.
 
 ## Requirements
 - DigiOS Software Build B1.0001.2129
