@@ -2,7 +2,7 @@
 
 ![Lint](https://github.com/digilens-ar/Unity-sample-app/actions/workflows/linter.yml/badge.svg)
 
-To get started, navigate to our developer site:  [Developing with Qualcomm Snapdragon Spaces 1.0.1](https://developer.digilens.com/hc/en-us/articles/31935140970011-Developing-with-Qualcomm-Snapdragon-Spaces-1-0-1)
+To get started, navigate to our developer site:  [Developing with Snapdragon Spaces 1.0.1](https://developer.digilens.com/hc/en-us/articles/36241428293659-Developing-for-Snapdragon-Spaces-1-0-1)
 
 The web page provides a detailed description of the steps required to incorporate Spaces to your project and build Unity applications for ARGO devices.
 
@@ -27,7 +27,7 @@ This Unity Sample app demonstrates how to set up your project for AR development
 6. Select Android as the build platform
 7. Build and run the DigiOS Spaces Sample scene
 
-For more detailed instructions visit the [Developing with Qualcomm Snapdragon Spaces 1.0.1](https://developer.digilens.com/hc/en-us/articles/31935140970011-Developing-with-Qualcomm-Snapdragon-Spaces-1-0-1) page.
+For more detailed instructions visit the [Developing with Snapdragon Spaces 1.0.1](https://developer.digilens.com/hc/en-us/articles/36241428293659-Developing-for-Snapdragon-Spaces-1-0-1) page.
 
 ## Additional Resources
 
